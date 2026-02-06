@@ -1,0 +1,27 @@
+{
+  "name": "eslint-plugin-10x-engineering",
+  "version": "1.0.0",
+  "description": "The ESLint Plugin For 10x Engineers",
+  "homepage": "https://github.com/10xly/eslint-plugin-10x-engineering#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/eslint-plugin-10x-engineering/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/eslint-plugin-10x-engineering.git"
+  },
+  "license": "MIT",
+  "author": "10x'ly",
+  "type": "commonjs",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha tests/**/*.test.js"
+  },
+  "peerDependencies": {
+    "eslint": ">=7.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.39.2",
+    "mocha": "^11.7.5"
+  }
+}
