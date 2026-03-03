@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-10x-engineering",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The ESLint Plugin For 10x Engineers",
   "homepage": "https://github.com/10xly/eslint-plugin-10x-engineering#readme",
   "bugs": {
