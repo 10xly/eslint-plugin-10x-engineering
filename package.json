@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-10x-engineering",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The ESLint Plugin For 10x Engineers",
   "homepage": "https://github.com/10xly/eslint-plugin-10x-engineering#readme",
   "bugs": {
@@ -18,7 +18,7 @@
     "test": "mocha tests/**/*.test.js"
   },
   "peerDependencies": {
-    "eslint": ">=7.0.0"
+    "eslint": "9"
   },
   "devDependencies": {
     "eslint": "^9.39.2",
